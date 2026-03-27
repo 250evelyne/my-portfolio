@@ -620,8 +620,10 @@ export default function Portfolio() {
             with a passion for clean code and thoughtful design.
           </p>
           <div className="hero-btns">
-            <a href="#projects" className="btn btn-dark">View Projects</a>
-            <a href="#contact"  className="btn btn-ghost">Get in Touch</a>
+      <a href="#projects" className="btn btn-dark">View Projects</a>
+<a href="/my-portfolio/Evelyne_CV.pdf" download className="btn btn-ghost">Download CV</a>
+<a href="#contact"  className="btn btn-ghost">Get in Touch</a>
+
           </div>
         </div>
 
