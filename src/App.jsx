@@ -743,7 +743,8 @@ export default function Portfolio() {
           evelynekessie@gmail.com
         </a>
         <div className="socials reveal">
-          <a href="https://github.com/250evelyne" target="_blank" rel="noopener noreferrer" className="soc-link">GitHub</a>
+         <a href="https://github.com/250evelyne" target="_blank" rel="noopener noreferrer" className="soc-link">GitHub</a>
+<a href="https://www.linkedin.com/in/evelyne-mukarukundo-317407188" target="_blank" rel="noopener noreferrer" className="soc-link">LinkedIn</a>
           <a href="tel:+15144301949" className="soc-link">+1 (514) 430‑1949</a>
         </div>
       </section>
