@@ -645,7 +645,7 @@ export default function Portfolio() {
               <div className="photo-ring">
                 <div className="photo-inner">
               
-                 <img src="/me.jpg" alt="Evelyne Mukarukundo" />
+               <img src="/my-portfolio/me.jpg" alt="Evelyne Mukarukundo" />
                 </div>
               </div>
               <p className="photo-caption">Evelyne Mukarukundo</p>
